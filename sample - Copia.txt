@@ -1,0 +1,4 @@
+Hello world! This is a sample text file for testing.
+Hello again. Testing the functionality of the application.
+World is full of wonderful things. Enjoy the world of programming.
+Hello again, world!
